@@ -1,6 +1,7 @@
 # AwsUpload
 
-TODO: Write a gem description
+This gem offers a helper method to build a form HTML to upload directry to Amazon S3 storage by using POST method.
+With this gem, you can easily exclude settings for aws s3 direct upload and generate upload form by calling a single helper method.
 
 ## Installation
 
